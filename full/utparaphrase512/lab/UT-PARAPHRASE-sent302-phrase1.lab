@@ -1,0 +1,11 @@
+0 3125000 xx^xx-sil+e=r/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:03+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_6/K:1+1-6
+3125000 3825000 xx^sil-e+r=a/A:0+1+6/B:xx-xx_xx/C:03_xx+xx/D:11+xx_xx/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+3825000 4325000 sil^e-r+a=a/A:1+2+5/B:xx-xx_xx/C:03_xx+xx/D:11+xx_xx/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+4325000 5024999 e^r-a+a=j/A:1+2+5/B:xx-xx_xx/C:03_xx+xx/D:11+xx_xx/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+5024999 5725000 r^a-a+j=a/A:2+3+4/B:xx-xx_xx/C:03_xx+xx/D:11+xx_xx/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+5725000 6725000 a^a-j+a=n/A:3+4+3/B:03-xx_xx/C:11_xx+xx/D:10+7_2/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+6725000 7225000 a^j-a+n=a/A:3+4+3/B:03-xx_xx/C:11_xx+xx/D:10+7_2/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+7225000 7825000 j^a-n+a=i/A:4+5+2/B:11-xx_xx/C:10_7+2/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+7825000 8725000 a^n-a+i=sil/A:4+5+2/B:11-xx_xx/C:10_7+2/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+8725000 9525000 n^a-i+sil=xx/A:5+6+1/B:11-xx_xx/C:10_7+2/D:xx+xx_xx/E:xx_xx!xx_xx-xx/F:6_1#0_xx@1_1|1_6/G:xx_xx%xx_xx_xx/H:xx_xx/I:1-6@1+1&1-1|1+6/J:xx_xx/K:1+1-6
+9525000 12024999 a^i-sil+xx=xx/A:xx+xx+xx/B:10-7_2/C:xx_xx+xx/D:xx+xx_xx/E:6_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:1_6/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:1+1-6
