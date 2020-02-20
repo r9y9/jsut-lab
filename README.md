@@ -86,3 +86,4 @@ https://github.com/r9y9/segmentation-kit/tree/jsut2
 - [日本語 End-to-end 音声合成に使えるコーパス JSUT の前処理 [arXiv:1711.00354]](https://r9y9.github.io/blog/2017/11/12/jsut_ver1/)
 - [pyopenjtalk](https://github.com/r9y9/pyopenjtalk)
 - [nnmnkwii](https://github.com/r9y9/nnmnkwii)
+- [sarulab-speech/jsut-label](https://github.com/sarulab-speech/jsut-label) Hand-annotated phonetic and prosodic information from Saruwatari-lab.
