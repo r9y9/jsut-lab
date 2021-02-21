@@ -1,5 +1,5 @@
-0 3025000 xx^xx-sil+h=I/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_2%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_10/K:2+5-19
-3025000 3625000 xx^sil-h+I=t/A:-1+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_2|1_10/G:5_4%0_xx_1/H:xx_xx/I:2-10@1+2&1-5|1+19/J:3_9/K:2+5-19
+0 2725000 xx^xx-sil+h=I/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_2%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_10/K:2+5-19
+2725000 3625000 xx^sil-h+I=t/A:-1+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_2|1_10/G:5_4%0_xx_1/H:xx_xx/I:2-10@1+2&1-5|1+19/J:3_9/K:2+5-19
 3625000 3925000 sil^h-I+t=o/A:-1+1+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_2|1_10/G:5_4%0_xx_1/H:xx_xx/I:2-10@1+2&1-5|1+19/J:3_9/K:2+5-19
 3925000 4525000 h^I-t+o=b/A:0+2+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_2|1_10/G:5_4%0_xx_1/H:xx_xx/I:2-10@1+2&1-5|1+19/J:3_9/K:2+5-19
 4525000 5225000 I^t-o+b=i/A:0+2+4/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:5_2#0_xx@1_2|1_10/G:5_4%0_xx_1/H:xx_xx/I:2-10@1+2&1-5|1+19/J:3_9/K:2+5-19

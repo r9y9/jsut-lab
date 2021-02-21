@@ -1,5 +1,5 @@
-0 1225000 xx^xx-sil+ch=I/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_3%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_6/K:2+4-20
-1225000 2925000 xx^sil-ch+I=k/A:-2+1+6/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_0/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
+0 1125000 xx^xx-sil+ch=I/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:6_3%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_6/K:2+4-20
+1125000 2925000 xx^sil-ch+I=k/A:-2+1+6/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_0/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
 2925000 3225000 sil^ch-I+k=u/A:-2+1+6/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_0/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
 3225000 3725000 ch^I-k+u=o/A:-1+2+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_0/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20
 3725000 4225000 I^k-u+o=N/A:-1+2+5/B:xx-xx_xx/C:02_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:6_3#0_xx@1_1|1_6/G:5_5%0_xx_0/H:xx_xx/I:1-6@1+2&1-4|1+20/J:3_14/K:2+4-20

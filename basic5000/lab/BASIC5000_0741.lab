@@ -3,8 +3,8 @@
 3425000 4125000 sil^m-a+ts=u/A:-2+1+3/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_3#0_xx@1_1|1_3/G:7_1%0_xx_0/H:xx_xx/I:1-3@1+2&1-3|1+27/J:2_24/K:2+3-27
 4125000 5525000 m^a-ts+u=i/A:-1+2+2/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_3#0_xx@1_1|1_3/G:7_1%0_xx_0/H:xx_xx/I:1-3@1+2&1-3|1+27/J:2_24/K:2+3-27
 5525000 5925000 a^ts-u+i=pau/A:-1+2+2/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_3#0_xx@1_1|1_3/G:7_1%0_xx_0/H:xx_xx/I:1-3@1+2&1-3|1+27/J:2_24/K:2+3-27
-5925000 8325000 ts^u-i+pau=k/A:0+3+1/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_3#0_xx@1_1|1_3/G:7_1%0_xx_0/H:xx_xx/I:1-3@1+2&1-3|1+27/J:2_24/K:2+3-27
-8325000 8925000 u^i-pau+k=i/A:xx+xx+xx/B:18-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:3_3!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_1%0_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_24/K:2+3-27
+5925000 7925000 ts^u-i+pau=k/A:0+3+1/B:xx-xx_xx/C:18_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_3#0_xx@1_1|1_3/G:7_1%0_xx_0/H:xx_xx/I:1-3@1+2&1-3|1+27/J:2_24/K:2+3-27
+7925000 8925000 u^i-pau+k=i/A:xx+xx+xx/B:18-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:3_3!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_1%0_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_24/K:2+3-27
 8925000 9525000 i^pau-k+i=sh/A:0+1+7/B:18-xx_xx/C:02_xx+xx/D:23+xx_xx/E:3_3!0_xx-0/F:7_1#0_xx@1_2|1_24/G:17_15%0_xx_1/H:1_3/I:2-24@2+1&2-2|4+24/J:xx_xx/K:2+3-27
 9525000 9925000 pau^k-i+sh=I/A:0+1+7/B:18-xx_xx/C:02_xx+xx/D:23+xx_xx/E:3_3!0_xx-0/F:7_1#0_xx@1_2|1_24/G:17_15%0_xx_1/H:1_3/I:2-24@2+1&2-2|4+24/J:xx_xx/K:2+3-27
 9925000 11125000 k^i-sh+I=k/A:1+2+6/B:18-xx_xx/C:02_xx+xx/D:23+xx_xx/E:3_3!0_xx-0/F:7_1#0_xx@1_2|1_24/G:17_15%0_xx_1/H:1_3/I:2-24@2+1&2-2|4+24/J:xx_xx/K:2+3-27

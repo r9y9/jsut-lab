@@ -1,8 +1,8 @@
 0 1825000 xx^xx-sil+k=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_11/K:2+10-37
 1825000 3525000 xx^sil-k+a=i/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37
 3525000 4425000 sil^k-a+i=g/A:0+1+5/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37
-4425000 5024999 k^a-i+g=a/A:1+2+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37
-5024999 5625000 a^i-g+a=i/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37
+4425000 4925000 k^a-i+g=a/A:1+2+4/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37
+4925000 5625000 a^i-g+a=i/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37
 5625000 6725000 i^g-a+i=n/A:2+3+3/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37
 6725000 7225000 g^a-i+n=i/A:3+4+2/B:xx-xx_xx/C:02_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37
 7225000 7725000 a^i-n+i=i/A:4+5+1/B:02-xx_xx/C:13_xx+xx/D:20+1_1/E:xx_xx!xx_xx-xx/F:5_1#0_xx@1_3|1_11/G:3_3%0_xx_1/H:xx_xx/I:3-11@1+2&1-10|1+37/J:7_26/K:2+10-37

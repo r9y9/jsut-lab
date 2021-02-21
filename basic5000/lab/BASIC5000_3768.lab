@@ -100,5 +100,5 @@
 76125000 76825000 s^a-r+e=r/A:-1+4+2/B:20-1_0/C:15_3+2/D:xx+xx_xx/E:5_2!0_xx-1/F:5_5#0_xx@7_1|28_5/G:xx_xx%xx_xx_xx/H:5_18/I:7-32@3+1&7-7|27+32/J:xx_xx/K:3+13-58
 76825000 77325000 a^r-e+r=u/A:-1+4+2/B:20-1_0/C:15_3+2/D:xx+xx_xx/E:5_2!0_xx-1/F:5_5#0_xx@7_1|28_5/G:xx_xx%xx_xx_xx/H:5_18/I:7-32@3+1&7-7|27+32/J:xx_xx/K:3+13-58
 77325000 78125000 r^e-r+u=sil/A:0+5+1/B:20-1_0/C:15_3+2/D:xx+xx_xx/E:5_2!0_xx-1/F:5_5#0_xx@7_1|28_5/G:xx_xx%xx_xx_xx/H:5_18/I:7-32@3+1&7-7|27+32/J:xx_xx/K:3+13-58
-78125000 79525000 e^r-u+sil=xx/A:0+5+1/B:20-1_0/C:15_3+2/D:xx+xx_xx/E:5_2!0_xx-1/F:5_5#0_xx@7_1|28_5/G:xx_xx%xx_xx_xx/H:5_18/I:7-32@3+1&7-7|27+32/J:xx_xx/K:3+13-58
-79525000 82125000 r^u-sil+xx=xx/A:xx+xx+xx/B:15-3_2/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:7_32/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:3+13-58
+78125000 79425000 e^r-u+sil=xx/A:0+5+1/B:20-1_0/C:15_3+2/D:xx+xx_xx/E:5_2!0_xx-1/F:5_5#0_xx@7_1|28_5/G:xx_xx%xx_xx_xx/H:5_18/I:7-32@3+1&7-7|27+32/J:xx_xx/K:3+13-58
+79425000 82125000 r^u-sil+xx=xx/A:xx+xx+xx/B:15-3_2/C:xx_xx+xx/D:xx+xx_xx/E:5_5!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:xx_xx%xx_xx_xx/H:7_32/I:xx-xx@xx+xx&xx-xx|xx+xx/J:xx_xx/K:3+13-58

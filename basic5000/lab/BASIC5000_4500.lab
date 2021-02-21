@@ -7,8 +7,8 @@
 11825000 12525000 e^r-a+w=a/A:2+3+2/B:xx-xx_xx/C:04_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:3_2%0_xx_0/H:xx_xx/I:1-4@1+2&1-6|1+22/J:5_18/K:2+6-22
 12525000 13625000 r^a-w+a=pau/A:3+4+1/B:04-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:3_2%0_xx_0/H:xx_xx/I:1-4@1+2&1-6|1+22/J:5_18/K:2+6-22
 13625000 14424999 a^w-a+pau=u/A:3+4+1/B:04-xx_xx/C:24_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:4_1#0_xx@1_1|1_4/G:3_2%0_xx_0/H:xx_xx/I:1-4@1+2&1-6|1+22/J:5_18/K:2+6-22
-14424999 15625000 w^a-pau+u=t/A:xx+xx+xx/B:24-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:4_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_2%0_xx_xx/H:1_4/I:xx-xx@xx+xx&xx-xx|xx+xx/J:5_18/K:2+6-22
-15625000 16125000 a^pau-u+t=a/A:-1+1+3/B:24-xx_xx/C:02_xx+xx/D:23+xx_xx/E:4_1!0_xx-0/F:3_2#0_xx@1_5|1_18/G:5_5%0_xx_1/H:1_4/I:5-18@2+1&2-5|5+18/J:xx_xx/K:2+6-22
+14424999 15525000 w^a-pau+u=t/A:xx+xx+xx/B:24-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:4_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_2%0_xx_xx/H:1_4/I:xx-xx@xx+xx&xx-xx|xx+xx/J:5_18/K:2+6-22
+15525000 16125000 a^pau-u+t=a/A:-1+1+3/B:24-xx_xx/C:02_xx+xx/D:23+xx_xx/E:4_1!0_xx-0/F:3_2#0_xx@1_5|1_18/G:5_5%0_xx_1/H:1_4/I:5-18@2+1&2-5|5+18/J:xx_xx/K:2+6-22
 16125000 16825000 pau^u-t+a=t/A:0+2+2/B:24-xx_xx/C:02_xx+xx/D:23+xx_xx/E:4_1!0_xx-0/F:3_2#0_xx@1_5|1_18/G:5_5%0_xx_1/H:1_4/I:5-18@2+1&2-5|5+18/J:xx_xx/K:2+6-22
 16825000 17525000 u^t-a+t=o/A:0+2+2/B:24-xx_xx/C:02_xx+xx/D:23+xx_xx/E:4_1!0_xx-0/F:3_2#0_xx@1_5|1_18/G:5_5%0_xx_1/H:1_4/I:5-18@2+1&2-5|5+18/J:xx_xx/K:2+6-22
 17525000 18225000 t^a-t+o=ts/A:1+3+1/B:02-xx_xx/C:23_xx+xx/D:02+xx_xx/E:4_1!0_xx-0/F:3_2#0_xx@1_5|1_18/G:5_5%0_xx_1/H:1_4/I:5-18@2+1&2-5|5+18/J:xx_xx/K:2+6-22

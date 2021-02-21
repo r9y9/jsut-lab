@@ -1,9 +1,9 @@
-0 1925000 xx^xx-sil+m=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:01+7_6/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_4%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_12/K:2+5-31
-1925000 2225000 xx^sil-m+i=n/A:-3+1+5/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
-2225000 2525000 sil^m-i+n=i/A:-3+1+5/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
-2525000 2824999 m^i-n+i=k/A:-2+2+4/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
-2824999 3125000 i^n-i+k=u/A:-2+2+4/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
-3125000 4325000 n^i-k+u=g/A:-1+3+3/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
+0 2025000 xx^xx-sil+m=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:01+7_6/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:5_4%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_12/K:2+5-31
+2025000 2325000 xx^sil-m+i=n/A:-3+1+5/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
+2325000 2625000 sil^m-i+n=i/A:-3+1+5/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
+2625000 2925000 m^i-n+i=k/A:-2+2+4/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
+2925000 3225000 i^n-i+k=u/A:-2+2+4/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
+3225000 4325000 n^i-k+u=g/A:-1+3+3/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
 4325000 6324999 i^k-u+g=a/A:-1+3+3/B:xx-xx_xx/C:01_7+6/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
 6324999 7325000 k^u-g+a=t/A:0+4+2/B:01-7_6/C:15_xx+xx/D:03+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
 7325000 7625000 u^g-a+t=a/A:0+4+2/B:01-7_6/C:15_xx+xx/D:03+xx_xx/E:xx_xx!xx_xx-xx/F:5_4#0_xx@1_2|1_12/G:7_4%0_xx_1/H:xx_xx/I:2-12@1+2&1-5|1+31/J:3_19/K:2+5-31
