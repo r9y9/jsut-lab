@@ -3,8 +3,8 @@
 3425000 3725000 sil^h-a+h=a/A:0+1+2/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:4_4%0_xx_0/H:xx_xx/I:1-2@1+3&1-6|1+20/J:1_4/K:3+6-20
 3725000 5024999 h^a-h+a=pau/A:1+2+1/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:4_4%0_xx_0/H:xx_xx/I:1-2@1+3&1-6|1+20/J:1_4/K:3+6-20
 5024999 6525000 a^h-a+pau=o/A:1+2+1/B:xx-xx_xx/C:02_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:4_4%0_xx_0/H:xx_xx/I:1-2@1+3&1-6|1+20/J:1_4/K:3+6-20
-6525000 10025000 h^a-pau+o=t/A:xx+xx+xx/B:02-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:2_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_4%0_xx_xx/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_4/K:3+6-20
-10025000 11325000 a^pau-o+t=o/A:-3+1+4/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:2_1!0_xx-0/F:4_4#0_xx@1_1|1_4/G:4_2%0_xx_0/H:1_2/I:1-4@2+2&2-5|3+18/J:4_14/K:3+6-20
+6525000 9925000 h^a-pau+o=t/A:xx+xx+xx/B:02-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:2_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_4%0_xx_xx/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_4/K:3+6-20
+9925000 11325000 a^pau-o+t=o/A:-3+1+4/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:2_1!0_xx-0/F:4_4#0_xx@1_1|1_4/G:4_2%0_xx_0/H:1_2/I:1-4@2+2&2-5|3+18/J:4_14/K:3+6-20
 11325000 12125000 pau^o-t+o=o/A:-2+2+3/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:2_1!0_xx-0/F:4_4#0_xx@1_1|1_4/G:4_2%0_xx_0/H:1_2/I:1-4@2+2&2-5|3+18/J:4_14/K:3+6-20
 12125000 12925000 o^t-o+o=t/A:-2+2+3/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:2_1!0_xx-0/F:4_4#0_xx@1_1|1_4/G:4_2%0_xx_0/H:1_2/I:1-4@2+2&2-5|3+18/J:4_14/K:3+6-20
 12925000 13725000 t^o-o+t=o/A:-1+3+2/B:02-xx_xx/C:02_xx+xx/D:02+xx_xx/E:2_1!0_xx-0/F:4_4#0_xx@1_1|1_4/G:4_2%0_xx_0/H:1_2/I:1-4@2+2&2-5|3+18/J:4_14/K:3+6-20

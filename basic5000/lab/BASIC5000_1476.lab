@@ -1,8 +1,8 @@
 0 2824999 xx^xx-sil+p=i/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:06+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_3%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_10/K:2+8-26
 2824999 3325000 xx^sil-p+i=cl/A:-2+1+4/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26
 3325000 4225000 sil^p-i+cl=t/A:-2+1+4/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26
-4225000 4625000 p^i-cl+t=a/A:-1+2+3/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26
-4625000 5425000 i^cl-t+a=r/A:0+3+2/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26
+4225000 4725000 p^i-cl+t=a/A:-1+2+3/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26
+4725000 5425000 i^cl-t+a=r/A:0+3+2/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26
 5425000 6025000 cl^t-a+r=i/A:0+3+2/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26
 6025000 6425000 t^a-r+i=a/A:1+4+1/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26
 6425000 7225000 a^r-i+a=u/A:1+4+1/B:xx-xx_xx/C:06_xx+xx/D:20+1_2/E:xx_xx!xx_xx-xx/F:4_3#0_xx@1_3|1_10/G:3_1%0_xx_1/H:xx_xx/I:3-10@1+2&1-8|1+26/J:5_16/K:2+8-26

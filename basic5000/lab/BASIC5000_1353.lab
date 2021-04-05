@@ -1,8 +1,8 @@
 0 3025000 xx^xx-sil+n=e/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:03+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:7_4%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_12/K:2+4-24
 3025000 3325000 xx^sil-n+e=cl/A:-3+1+7/B:xx-xx_xx/C:03_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24
 3325000 4325000 sil^n-e+cl=ky/A:-3+1+7/B:xx-xx_xx/C:03_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24
-4325000 4925000 n^e-cl+ky=o/A:-2+2+6/B:xx-xx_xx/C:03_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24
-4925000 5725000 e^cl-ky+o=o/A:-1+3+5/B:xx-xx_xx/C:03_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24
+4325000 5024999 n^e-cl+ky=o/A:-2+2+6/B:xx-xx_xx/C:03_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24
+5024999 5725000 e^cl-ky+o=o/A:-1+3+5/B:xx-xx_xx/C:03_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24
 5725000 6025000 cl^ky-o+o=t/A:-1+3+5/B:xx-xx_xx/C:03_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24
 6025000 6925000 ky^o-o+t=e/A:0+4+4/B:xx-xx_xx/C:03_xx+xx/D:15+xx_xx/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24
 6925000 7325000 o^o-t+e=k/A:1+5+3/B:03-xx_xx/C:15_xx+xx/D:10+7_3/E:xx_xx!xx_xx-xx/F:7_4#0_xx@1_2|1_12/G:5_5%0_xx_1/H:xx_xx/I:2-12@1+2&1-4|1+24/J:2_12/K:2+4-24

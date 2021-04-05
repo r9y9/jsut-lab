@@ -9,8 +9,8 @@
 7524999 8125000 e^t-a+i=w/A:-2+5+3/B:03-xx_xx/C:15_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:2_1%0_xx_0/H:xx_xx/I:1-7@1+3&1-8|1+28/J:3_10/K:3+8-28
 8125000 8725000 t^a-i+w=a/A:-1+6+2/B:03-xx_xx/C:15_xx+xx/D:24+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:2_1%0_xx_0/H:xx_xx/I:1-7@1+3&1-8|1+28/J:3_10/K:3+8-28
 8725000 10125000 a^i-w+a=pau/A:0+7+1/B:15-xx_xx/C:24_xx+xx/D:06+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:2_1%0_xx_0/H:xx_xx/I:1-7@1+3&1-8|1+28/J:3_10/K:3+8-28
-10125000 10825000 i^w-a+pau=m/A:0+7+1/B:15-xx_xx/C:24_xx+xx/D:06+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:2_1%0_xx_0/H:xx_xx/I:1-7@1+3&1-8|1+28/J:3_10/K:3+8-28
-10825000 12425000 w^a-pau+m=a/A:xx+xx+xx/B:24-xx_xx/C:xx_xx+xx/D:06+xx_xx/E:7_7!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_xx/H:1_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_10/K:3+8-28
+10125000 10725000 i^w-a+pau=m/A:0+7+1/B:15-xx_xx/C:24_xx+xx/D:06+xx_xx/E:xx_xx!xx_xx-xx/F:7_7#0_xx@1_1|1_7/G:2_1%0_xx_0/H:xx_xx/I:1-7@1+3&1-8|1+28/J:3_10/K:3+8-28
+10725000 12425000 w^a-pau+m=a/A:xx+xx+xx/B:24-xx_xx/C:xx_xx+xx/D:06+xx_xx/E:7_7!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_xx/H:1_7/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_10/K:3+8-28
 12425000 13025000 a^pau-m+a=z/A:0+1+2/B:24-xx_xx/C:06_xx+xx/D:02+xx_xx/E:7_7!0_xx-0/F:2_1#0_xx@1_3|1_10/G:4_2%0_xx_1/H:1_7/I:3-10@2+2&2-7|8+21/J:4_11/K:3+8-28
 13025000 13425000 pau^m-a+z=u/A:0+1+2/B:24-xx_xx/C:06_xx+xx/D:02+xx_xx/E:7_7!0_xx-0/F:2_1#0_xx@1_3|1_10/G:4_2%0_xx_1/H:1_7/I:3-10@2+2&2-7|8+21/J:4_11/K:3+8-28
 13425000 14325000 m^a-z+u=r/A:1+2+1/B:24-xx_xx/C:06_xx+xx/D:02+xx_xx/E:7_7!0_xx-0/F:2_1#0_xx@1_3|1_10/G:4_2%0_xx_1/H:1_7/I:3-10@2+2&2-7|8+21/J:4_11/K:3+8-28

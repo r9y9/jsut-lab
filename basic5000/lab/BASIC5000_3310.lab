@@ -1,11 +1,11 @@
-0 1325000 xx^xx-sil+t=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:08+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_3/K:3+9-41
-1325000 3225000 xx^sil-t+a=d/A:0+1+3/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:8_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-9|1+41/J:4_19/K:3+9-41
+0 2525000 xx^xx-sil+t=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:08+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_3/K:3+9-41
+2525000 3225000 xx^sil-t+a=d/A:0+1+3/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:8_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-9|1+41/J:4_19/K:3+9-41
 3225000 3725000 sil^t-a+d=a/A:0+1+3/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:8_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-9|1+41/J:4_19/K:3+9-41
 3725000 4225000 t^a-d+a=sh/A:1+2+2/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:8_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-9|1+41/J:4_19/K:3+9-41
 4225000 4525000 a^d-a+sh=i/A:1+2+2/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:8_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-9|1+41/J:4_19/K:3+9-41
 4525000 5925000 d^a-sh+i=pau/A:2+3+1/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:8_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-9|1+41/J:4_19/K:3+9-41
-5925000 7325000 a^sh-i+pau=g/A:2+3+1/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:8_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-9|1+41/J:4_19/K:3+9-41
-7325000 8525000 sh^i-pau+g=i/A:xx+xx+xx/B:08-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:3_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:8_4%0_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_19/K:3+9-41
+5925000 7225000 a^sh-i+pau=g/A:2+3+1/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:8_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-9|1+41/J:4_19/K:3+9-41
+7225000 8525000 sh^i-pau+g=i/A:xx+xx+xx/B:08-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:3_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:8_4%0_xx_xx/H:1_3/I:xx-xx@xx+xx&xx-xx|xx+xx/J:4_19/K:3+9-41
 8525000 9125000 i^pau-g+i=r/A:-3+1+8/B:08-xx_xx/C:02_xx+xx/D:02+xx_xx/E:3_1!0_xx-0/F:8_4#0_xx@1_4|1_19/G:5_5%0_xx_1/H:1_3/I:4-19@2+2&2-8|4+38/J:4_19/K:3+9-41
 9125000 9625000 pau^g-i+r=u/A:-3+1+8/B:08-xx_xx/C:02_xx+xx/D:02+xx_xx/E:3_1!0_xx-0/F:8_4#0_xx@1_4|1_19/G:5_5%0_xx_1/H:1_3/I:4-19@2+2&2-8|4+38/J:4_19/K:3+9-41
 9625000 9925000 g^i-r+u=d/A:-2+2+7/B:08-xx_xx/C:02_xx+xx/D:02+xx_xx/E:3_1!0_xx-0/F:8_4#0_xx@1_4|1_19/G:5_5%0_xx_1/H:1_3/I:4-19@2+2&2-8|4+38/J:4_19/K:3+9-41
