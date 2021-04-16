@@ -1,8 +1,8 @@
 0 3125000 xx^xx-sil+n=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:08+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:2_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_2/K:3+8-35
 3125000 3625000 xx^sil-n+a=o/A:0+1+2/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:8_5%0_xx_0/H:xx_xx/I:1-2@1+3&1-8|1+35/J:3_14/K:3+8-35
 3625000 4025000 sil^n-a+o=pau/A:0+1+2/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:8_5%0_xx_0/H:xx_xx/I:1-2@1+3&1-8|1+35/J:3_14/K:3+8-35
-4025000 6525000 n^a-o+pau=t/A:1+2+1/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:8_5%0_xx_0/H:xx_xx/I:1-2@1+3&1-8|1+35/J:3_14/K:3+8-35
-6525000 8525000 a^o-pau+t=o/A:xx+xx+xx/B:08-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:2_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:8_5%0_xx_xx/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_14/K:3+8-35
+4025000 6425000 n^a-o+pau=t/A:1+2+1/B:xx-xx_xx/C:08_xx+xx/D:02+xx_xx/E:xx_xx!xx_xx-xx/F:2_1#0_xx@1_1|1_2/G:8_5%0_xx_0/H:xx_xx/I:1-2@1+3&1-8|1+35/J:3_14/K:3+8-35
+6425000 8525000 a^o-pau+t=o/A:xx+xx+xx/B:08-xx_xx/C:xx_xx+xx/D:02+xx_xx/E:2_1!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:8_5%0_xx_xx/H:1_2/I:xx-xx@xx+xx&xx-xx|xx+xx/J:3_14/K:3+8-35
 8525000 9325000 o^pau-t+o=N/A:-4+1+8/B:08-xx_xx/C:02_xx+xx/D:02+xx_xx/E:2_1!0_xx-0/F:8_5#0_xx@1_3|1_14/G:4_4%0_xx_1/H:1_2/I:3-14@2+2&2-7|3+33/J:4_19/K:3+8-35
 9325000 10025000 pau^t-o+N=n/A:-4+1+8/B:08-xx_xx/C:02_xx+xx/D:02+xx_xx/E:2_1!0_xx-0/F:8_5#0_xx@1_3|1_14/G:4_4%0_xx_1/H:1_2/I:3-14@2+2&2-7|3+33/J:4_19/K:3+8-35
 10025000 10725000 t^o-N+n=e/A:-3+2+7/B:08-xx_xx/C:02_xx+xx/D:02+xx_xx/E:2_1!0_xx-0/F:8_5#0_xx@1_3|1_14/G:4_4%0_xx_1/H:1_2/I:3-14@2+2&2-7|3+33/J:4_19/K:3+8-35

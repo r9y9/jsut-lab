@@ -3,8 +3,8 @@
 3625000 4425000 sil^a-r+a=k/A:-3+2+4/B:xx-xx_xx/C:06_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
 4425000 5125000 a^r-a+k=a/A:-3+2+4/B:xx-xx_xx/C:06_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
 5125000 5725000 r^a-k+a=t/A:-2+3+3/B:xx-xx_xx/C:06_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
-5725000 6425000 a^k-a+t=a/A:-2+3+3/B:xx-xx_xx/C:06_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
-6425000 6925000 k^a-t+a=n/A:-1+4+2/B:xx-xx_xx/C:06_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
+5725000 6324999 a^k-a+t=a/A:-2+3+3/B:xx-xx_xx/C:06_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
+6324999 6925000 k^a-t+a=n/A:-1+4+2/B:xx-xx_xx/C:06_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
 6925000 7225000 a^t-a+n=o/A:-1+4+2/B:xx-xx_xx/C:06_xx+xx/D:23+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
 7225000 7925000 t^a-n+o=j/A:0+5+1/B:06-xx_xx/C:23_xx+xx/D:03+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20
 7925000 8325000 a^n-o+j=i/A:0+5+1/B:06-xx_xx/C:23_xx+xx/D:03+xx_xx/E:xx_xx!xx_xx-xx/F:5_5#0_xx@1_4|1_20/G:8_5%0_xx_1/H:xx_xx/I:4-20@1+1&1-4|1+20/J:xx_xx/K:1+4-20

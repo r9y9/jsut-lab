@@ -1,5 +1,5 @@
-0 925000 xx^xx-sil+k=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_3/K:3+8-34
-925000 3425000 xx^sil-k+a=r/A:0+1+3/B:xx-xx_xx/C:04_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:4_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-8|1+34/J:5_18/K:3+8-34
+0 2225000 xx^xx-sil+k=a/A:xx+xx+xx/B:xx-xx_xx/C:xx_xx+xx/D:04+xx_xx/E:xx_xx!xx_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:3_1%0_xx_xx/H:xx_xx/I:xx-xx@xx+xx&xx-xx|xx+xx/J:1_3/K:3+8-34
+2225000 3425000 xx^sil-k+a=r/A:0+1+3/B:xx-xx_xx/C:04_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:4_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-8|1+34/J:5_18/K:3+8-34
 3425000 3925000 sil^k-a+r=e/A:0+1+3/B:xx-xx_xx/C:04_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:4_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-8|1+34/J:5_18/K:3+8-34
 3925000 4525000 k^a-r+e=g/A:1+2+2/B:xx-xx_xx/C:04_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:4_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-8|1+34/J:5_18/K:3+8-34
 4525000 5225000 a^r-e+g=a/A:1+2+2/B:xx-xx_xx/C:04_xx+xx/D:13+xx_xx/E:xx_xx!xx_xx-xx/F:3_1#0_xx@1_1|1_3/G:4_4%0_xx_0/H:xx_xx/I:1-3@1+3&1-8|1+34/J:5_18/K:3+8-34
@@ -38,8 +38,8 @@
 27225000 28725000 t^e-pau+m=a/A:xx+xx+xx/B:12-xx_xx/C:xx_xx+xx/D:06+xx_xx/E:5_3!0_xx-xx/F:xx_xx#xx_xx@xx_xx|xx_xx/G:4_4%0_xx_xx/H:5_18/I:xx-xx@xx+xx&xx-xx|xx+xx/J:2_13/K:3+8-34
 28725000 29125000 e^pau-m+a=k/A:-3+1+4/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
 29125000 29725000 pau^m-a+k=o/A:-3+1+4/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
-29725000 30225000 m^a-k+o=t/A:-2+2+3/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
-30225000 31025000 a^k-o+t=o/A:-2+2+3/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
+29725000 30325000 m^a-k+o=t/A:-2+2+3/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
+30325000 31025000 a^k-o+t=o/A:-2+2+3/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
 31025000 31525000 k^o-t+o=n/A:-1+3+2/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
 31525000 31925000 o^t-o+n=i/A:-1+3+2/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
 31925000 32525000 t^o-n+i=g/A:0+4+1/B:12-xx_xx/C:06_xx+xx/D:16+xx_xx/E:5_3!0_xx-0/F:4_4#0_xx@1_2|1_13/G:9_2%0_xx_1/H:5_18/I:2-13@3+1&7-2|22+13/J:xx_xx/K:3+8-34
