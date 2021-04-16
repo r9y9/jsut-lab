@@ -71,7 +71,7 @@ Happy speech hacking!
 
 ## Source code to generate labels
 
-https://github.com/r9y9/segmentation-kit/tree/jsut2
+https://github.com/r9y9/segmentation-kit/tree/jsut3
 
 ## Notice
 
